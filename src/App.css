@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.Form{
+  margin-top: 200px; 
+  /* margin-left: 200px; */
+  display:grid;
+  justify-content: center;
+  align-items: center;
+  vertical-align: center;
+}
